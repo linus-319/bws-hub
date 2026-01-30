@@ -81,18 +81,6 @@ header p {
     color: #0052a3;
 }
 
-.github-link {
-    display: inline-block;
-    color: #0066cc;
-    text-decoration: none;
-    font-weight: 500;
-    transition: color 0.2s;
-}
-
-.github-link:hover {
-    color: #0052a3;
-}
-
 footer {
     text-align: center;
     margin-top: 3rem;
@@ -137,14 +125,6 @@ footer {
     }
 
     .project-link:hover {
-        color: #7ab8ff;
-    }
-
-    .github-link {
-        color: #4d9fff;
-    }
-
-    .github-link:hover {
         color: #7ab8ff;
     }
 
